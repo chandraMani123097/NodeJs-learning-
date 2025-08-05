@@ -1,0 +1,1 @@
+hii! i'm example of fs example of core module in node
